@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Tera&family=Noto+Sans:wght@700&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 *{
   margin: 0;
