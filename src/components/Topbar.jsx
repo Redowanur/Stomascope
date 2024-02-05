@@ -4,7 +4,7 @@ const Topbar = ()=>{
     return(
         <div className="bg-green-700">
         <div className="w-100 mx-auto flex justify-between items-center">
-            <div className="w-20 my-1"><img src={require('./logo.png')} alt=""/></div>
+            <div className="w-24 my-1"><img src={require('./logo.png')} alt=""/></div>
             <nav>
                 <ul className="flex gap-16">
                     <li><a href="temp.html" className="text-white">Home</a></li>
