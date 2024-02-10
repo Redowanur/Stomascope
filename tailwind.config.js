@@ -16,6 +16,8 @@ module.exports = {
       height:{
         hero: '510px',
         100: '600px',
+        110: '900px',
+        90: '93%'
       },
       width:{
         100: '1180px',
